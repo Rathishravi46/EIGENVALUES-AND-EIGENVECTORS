@@ -17,8 +17,7 @@ Using the np.linalg.eig(), we get two results (first is eigenvalue and second is
 ## Step 4:
 End the program
 
-## Program:<img width="1317" height="232" alt="image" src="https://github.com/user-attachments/assets/f8070b21-408f-44c0-90ed-4d243ecba238" />
-
+## Program:
 ```
 #Program to find the eigen values and eigen vectors.
 #Developed by: Rathish R 
